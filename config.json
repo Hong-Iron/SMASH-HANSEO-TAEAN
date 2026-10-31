@@ -1,0 +1,137 @@
+{
+  "code": "HANSEO-TAEAN",
+  "title": "SMASH HANSEO TAEAN",
+  "school": "한서대",
+  "fullName": "한서대학교",
+  "campusName": "한서대학교 태안캠퍼스",
+  "tagline": "한서대를 부셔 (시험기간 스트레스 해소)",
+  "description": "한서대학교 태안캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 한서대학교 태안캠퍼스 3D 화면과 SMASH HANSEO TAEAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-HANSEO-TAEAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "relation",
+    "id": 13020331
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.5965566,
+        126.2917684
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 항공기술교육센터 서쪽 길모퉁이 횡단보도 자리라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5944615,
+        126.2948013
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 비행기가 서 있는 계류장 포장면 위라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5986326,
+        126.2921252
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 비행장 북쪽 끝 캠퍼스 경계의 풀밭이라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5983238,
+        126.2924752
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 비행장 북쪽 끝 풀밭이라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5952189,
+        126.2955965
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 유도로와 그 옆 풀밭 위라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5950269,
+        126.2952573
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 유도로 사이 풀밭과 포장면 위라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5950161,
+        126.2948907
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 계류장 옆 풀밭 위라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5948764,
+        126.294979
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 계류장 옆 풀밭 위라 사진에 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.5947061,
+        126.2947812
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 비행기가 서 있는 계류장 포장면 위라 사진에 건물이 없습니다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "tan",
+      "wall": "#d9c9a9",
+      "glass": "#3f6672",
+      "frame": "#b4a697"
+    },
+    "실습2동": {
+      "style": "tan",
+      "wall": "#d3c3a4",
+      "glass": "#4a7472",
+      "frame": "#c8d9e1"
+    },
+    "창업2관": {
+      "style": "tan",
+      "wall": "#e2d3bb",
+      "glass": "#3d5a60",
+      "frame": "#a3b0bf"
+    },
+    "창업3관": {
+      "style": "concrete",
+      "wall": "#b3b9b9",
+      "glass": "#4f8380",
+      "frame": "#efcdbb"
+    },
+    "항공기술교육센터": {
+      "style": "stone",
+      "wall": "#cbd2d5",
+      "glass": "#213b4f",
+      "frame": "#55595e"
+    },
+    "제3학사관 신관": {
+      "style": "dorm",
+      "wall": "#9ca5b0",
+      "glass": "#294556",
+      "frame": "#c4cad0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
