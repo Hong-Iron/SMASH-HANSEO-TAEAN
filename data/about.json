@@ -1,0 +1,34 @@
+{
+ "region": "충남 태안군 남면",
+ "nameEn": "Hanseo University Taean Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 289,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HANSEO",
+   "campus": "한서대학교 서산캠퍼스",
+   "km": 28.0
+  },
+  {
+   "code": "HYEJEON",
+   "campus": "혜전대학교",
+   "km": 32.6
+  },
+  {
+   "code": "AJU-MOTOR",
+   "campus": "아주자동차대학교",
+   "km": 33.1
+  },
+  {
+   "code": "SHINSUNG",
+   "campus": "신성대학교",
+   "km": 39.1
+  },
+  {
+   "code": "KONGJU-YESAN",
+   "campus": "국립공주대학교 예산캠퍼스",
+   "km": 51.1
+  }
+ ]
+}
